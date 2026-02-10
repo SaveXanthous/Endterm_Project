@@ -2,7 +2,7 @@ package org.example.controller;
 
 import org.example.controller.abstract_classes.AbstractCrudController;
 import org.example.models.Cell;
-import org.example.service.CellService;
+import org.example.rest_service.CellService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

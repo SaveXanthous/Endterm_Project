@@ -2,7 +2,7 @@ package org.example.controller;
 
 import org.example.controller.abstract_classes.AbstractCrudController;
 import org.example.models.VendingMachine;
-import org.example.service.VendingMachineService;
+import org.example.rest_service.VendingMachineService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

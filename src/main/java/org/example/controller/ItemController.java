@@ -2,7 +2,7 @@ package org.example.controller;
 
 import org.example.controller.abstract_classes.AbstractCrudController;
 import org.example.models.Item;
-import org.example.service.ItemService;
+import org.example.rest_service.ItemService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

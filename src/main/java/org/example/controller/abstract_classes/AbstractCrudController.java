@@ -6,7 +6,7 @@ import java.util.List;
 
 public abstract class AbstractCrudController<T, ID> {
 
-    protected abstract org.example.service.abstract_classes.AbstractCrudService<T, ID> getService();
+    protected abstract org.example.rest_service.abstract_classes.AbstractCrudService<T, ID> getService();
 
     @PostMapping
     public T create(@RequestBody T entity) {

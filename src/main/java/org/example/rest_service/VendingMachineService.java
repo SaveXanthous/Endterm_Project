@@ -1,8 +1,8 @@
-package org.example.service;
+package org.example.rest_service;
 
 import org.example.models.VendingMachine;
 import org.example.rest_repository.VendingMachineRepository;
-import org.example.service.abstract_classes.AbstractCrudService;
+import org.example.rest_service.abstract_classes.AbstractCrudService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

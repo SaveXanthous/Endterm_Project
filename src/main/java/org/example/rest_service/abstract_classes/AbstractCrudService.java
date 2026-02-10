@@ -1,4 +1,4 @@
-package org.example.service.abstract_classes;
+package org.example.rest_service.abstract_classes;
 
 import java.util.List;
 
