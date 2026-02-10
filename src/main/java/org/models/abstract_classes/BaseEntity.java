@@ -1,6 +1,6 @@
 package org.models.abstract_classes;
 
-import org.example.models.interfaces.*;
+import org.models.interfaces.*;
 import org.models.interfaces.Id;
 import org.models.interfaces.Name;
 
