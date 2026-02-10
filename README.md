@@ -118,6 +118,9 @@ Relationships:
 - Cell links vending machine and item
 - Quantity stored per machine slot
 
+
+![Description of the image](./docs/DatabaseShema.png)
+
 ---
 
 # System Architecture
@@ -154,6 +157,9 @@ API tested using:
 - Postman
 - JSON requests
 - CRUD verification
+
+
+![Description of the image](./docs/ExampleRequestAPI.png)
 
 ---
 
