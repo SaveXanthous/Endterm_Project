@@ -78,9 +78,9 @@ Purpose:
 ## REP
 
 Reusable modules:
-- repository
-- service
-- utils
+- rest_repository
+- rest_service
+- rest_utils
 - models
 
 ## CCP
