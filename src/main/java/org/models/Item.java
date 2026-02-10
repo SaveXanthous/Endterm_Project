@@ -1,6 +1,6 @@
 package org.models;
 
-import org.example.exceptions.*;
+import org.exceptions.*;
 import org.exceptions.InvalidInputException;
 import org.models.abstract_classes.BaseEntity;
 
